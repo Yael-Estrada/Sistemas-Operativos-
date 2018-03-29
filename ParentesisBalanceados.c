@@ -1,3 +1,6 @@
+
+//***Requiere la biblioteca de Pila.h y Elem.h***
+
 #include<stdio.h>
 #include<stdlib.h>
 #include"Pila.h"
